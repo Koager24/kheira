@@ -1,0 +1,13 @@
+{
+  "name": "KHEIRA – Handtherapie",
+  "short_name": "KHEIRA",
+  "description": "Digitale Anleitung für die Nachbehandlung nach Handsehnenverletzungen – nach ärztlicher Freigabe.",
+  "lang": "de",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAFBFD",
+  "theme_color": "#FAFBFD",
+  "icons": [
+    { "src": "brand/app-icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
